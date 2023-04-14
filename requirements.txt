@@ -1,0 +1,5 @@
+click==8.0.3
+eth-account==0.6.6
+eth-brownie==1.17.1
+eth-utils==1.10.0
+web3==5.24.0
